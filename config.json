@@ -1,11 +1,11 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "50937069302",
+   "owner_name": "andymrlit",
    "database": "data",
-   "limit": 15,
+   "limit": 10,
    "ram_limit": "900mb",
-   "max_upload": 50,
-   "max_upload_free": 10,
+   "max_upload": 100,
+   "max_upload_free": 100,
    "cooldown": 3,
    "timer": 180000,
    "timeout": 1800000,
@@ -13,6 +13,6 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017444
+      "number": 50937069302
    }
 }
